@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-16T07:40:36.987Z</updated>
+  <updated>2019-01-18T02:42:59.042Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在前面</title>
+    <link href="http://yoursite.com/2019/01/18/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
+    <id>http://yoursite.com/2019/01/18/写在前面/</id>
+    <published>2019-01-18T02:34:11.000Z</published>
+    <updated>2019-01-18T02:42:59.042Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个写在前面彩蛋：🍊好<br>看到了新的博客 其实还有很多遗憾。。。</p><hr><p>写给自己：<br>还是在逃避<br>嗯<br>但是往事随风 现在的你依旧是怀着一丝丝的希望前行吧，如果真正放弃的话，或许几年之后，还是会再次陷入另一个巨大痛苦之中… 希望能保持平淡的❤ 重新找回新的生活，回到正轨<br>…<br>(待补充)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一个写在前面彩蛋：🍊好&lt;br&gt;看到了新的博客 其实还有很多遗憾。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;写给自己：&lt;br&gt;还是在逃避&lt;br&gt;嗯&lt;br&gt;但是往事随风 现在的你依旧是怀着一丝丝的希望前行吧，如果真正放弃的话，或许几年之后，还是会再次陷入另一个巨大痛苦之中… 希望能保持平
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>测试文章</title>
