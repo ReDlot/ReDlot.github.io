@@ -5,9 +5,9 @@
   <subtitle>追寻自我</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://knlot.cn/"/>
   <updated>2019-01-24T01:39:15.614Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://knlot.cn/</id>
   
   <author>
     <name>Knlot</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>weblogic</title>
-    <link href="http://yoursite.com/2019/01/24/weblogic/"/>
-    <id>http://yoursite.com/2019/01/24/weblogic/</id>
+    <link href="http://knlot.cn/2019/01/24/weblogic/"/>
+    <id>http://knlot.cn/2019/01/24/weblogic/</id>
     <published>2019-01-24T01:33:17.000Z</published>
     <updated>2019-01-24T01:39:15.614Z</updated>
     
@@ -35,14 +35,14 @@
     </summary>
     
     
-      <category term="weblogic" scheme="http://yoursite.com/tags/weblogic/"/>
+      <category term="weblogic" scheme="http://knlot.cn/tags/weblogic/"/>
     
   </entry>
   
   <entry>
     <title>写在前面</title>
-    <link href="http://yoursite.com/2019/01/18/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
-    <id>http://yoursite.com/2019/01/18/写在前面/</id>
+    <link href="http://knlot.cn/2019/01/18/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
+    <id>http://knlot.cn/2019/01/18/写在前面/</id>
     <published>2019-01-18T02:34:11.000Z</published>
     <updated>2019-01-18T04:40:09.083Z</updated>
     
@@ -60,7 +60,7 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://knlot.cn/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
